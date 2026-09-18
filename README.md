@@ -654,12 +654,3 @@ urban traffic analytics
 > actionable urban traffic intelligence.**
 
 ------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-🚦 `<b>`{=html}City-Wide AI • Multi-Camera ANPR • Trajectory
-Intelligence • Urban Traffic Analytics`</b>`{=html} 🚦
-```{=html}
-</p>
-```
