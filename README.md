@@ -7,6 +7,9 @@
 > **Team:** Error 404!!
 
 ------------------------------------------------------------------------
+🚀 Try the deployed application:
+https://smart-city-anpr-dashboard.streamlit.app/
+------------------------------------------------------------------------
 
 ## 📌 Overview
 
