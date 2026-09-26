@@ -1,12 +1,9 @@
-# SIH26127 Complete Solution Guide
+# [SIH26127 Complete Solution Guide]
 ## City-Wide AI Engine for Multi-Camera ANPR Trajectory Tracking and Urban Traffic Analytics
 
 **Problem Statement ID:** SIH26127  
 **Organization:** Bharat Electronics Limited  
 **Theme:** Smart Automation / Transportation & Logistics  
-**Submission Deadline:** September 30, 2026  
-**Hackathon Duration:** 36 hours  
-**Team Size:** 6 students
 
 ---
 
@@ -1486,36 +1483,6 @@ Shot 7 (15 sec): Scaling visualization
 - Show architecture can handle 100 cameras
 - Numbers: "Processing 1000 vehicles/minute"
 ```
-
----
-
-# FINAL TIPS FOR SUCCESS
-
-## What Makes Winners Stand Out
-
-✅ **DO:**
-- Show a working prototype (even if imperfect)
-- Use real traffic data (not synthetic)
-- Have a clear "aha moment" in your demo
-- Show you understand the judges' pain points
-- Practice your pitch (sounds confident, not rushed)
-
-❌ **DON'T:**
-- Oversell unrealistic numbers
-- Have a demo that crashes
-- Use blurry, hard-to-read screenshots
-- Talk too fast or mumble
-- Ignore questions from judges
-
-## Common Mistakes to Avoid
-
-| Mistake | Why It Fails | Fix |
-|---------|------------|-----|
-| "We'll use real traffic cameras" | You can't in 36 hours | Use YouTube traffic streams instead |
-| "We'll achieve 100% accuracy" | Impossible, judges know this | "We achieve 92% accuracy, beating industry benchmarks" |
-| "We'll support 1000 cities" | Unrealistic scope | "Designed to scale; deployed in 1 city first" |
-| "No dependencies, built from scratch" | Wastes time, judges don't care | Use existing libraries proudly |
-| "We didn't test it fully" | Judges notice bugs immediately | Test thoroughly, ship polished |
 
 ---
 
